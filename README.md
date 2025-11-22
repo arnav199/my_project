@@ -12,3 +12,6 @@ if u chosse any other character then it will ask u again to chosse between
 same choices '1,2,3,4, and q'
 then it will ask u to enter first and second number
 after that it will give u ur result.
+
+What Can This Project Do:
+basicly this project do basic maths like additon , subraction , multilication and division. 
